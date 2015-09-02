@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\bin\Debug\MSChartDemo.exe
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\bin\Debug\MSChartDemo.pdb
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.exe
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.pdb
+C:\Documents and Settings\Administrator\桌面\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.MSChartDemo.resources
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.exe
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.pdb
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\ResolveAssemblyReference.cache
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.MSChartDemo.resources
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.Properties.Resources.resources
+I:\GIS\MSChartDemo\MSChartDemo\obj\Debug\MSChartDemo.csproj.GenerateResource.Cache
+I:\GIS\MSChartDemo\MSChartDemo\bin\Debug\MSChartDemo.exe
+I:\GIS\MSChartDemo\MSChartDemo\bin\Debug\MSChartDemo.pdb

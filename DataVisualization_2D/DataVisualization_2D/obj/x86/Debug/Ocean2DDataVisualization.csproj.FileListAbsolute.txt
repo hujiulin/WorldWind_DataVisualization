@@ -1,0 +1,5 @@
+I:\GIS\Ocean2DDataVisualization\Ocean2DDataVisualization\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\GIS\Ocean2DDataVisualization\Ocean2DDataVisualization\obj\x86\Debug\Ocean2DDataVisualization.ChromeForm.resources
+I:\GIS\Ocean2DDataVisualization\Ocean2DDataVisualization\obj\x86\Debug\Ocean2DDataVisualization.Ocean2DDataVisualization.resources
+I:\GIS\Ocean2DDataVisualization\Ocean2DDataVisualization\obj\x86\Debug\Ocean2DDataVisualization.Properties.Resources.resources
+I:\GIS\Ocean2DDataVisualization\Ocean2DDataVisualization\obj\x86\Debug\Ocean2DDataVisualization.csproj.GenerateResource.Cache

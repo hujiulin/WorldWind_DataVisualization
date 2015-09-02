@@ -1,0 +1,17 @@
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.exe
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.pdb
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\bin\Debug\DataVisualization_2D.exe
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\bin\Debug\DataVisualization_2D.pdb
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.ChromeForm.resources
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.DataVisualization_2D.resources
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.Properties.Resources.resources
+C:\Users\FOX\Desktop\DataVisualization2D\DataVisualization2D\obj\Debug\DataVisualization_2D.csproj.GenerateResource.Cache
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\DataVisualization_2D.exe
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\DataVisualization_2D.pdb
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\bin\Debug\DataVisualization_2D.exe
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\bin\Debug\DataVisualization_2D.pdb
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\DataVisualization_2D.ChromeForm.resources
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\DataVisualization_2D.Properties.Resources.resources
+C:\Users\FOX\Desktop\DataVisualization_WEB\DataVisualization2D\obj\Debug\DataVisualization_2D.csproj.GenerateResource.Cache
