@@ -2,5 +2,5 @@
 
 - WorldWind Data visulaization plugin sample demo.
 - If you have any questions, please contact:
--- www.coinidea.com
--- blog.coinidea.com
+  http://www.coinidea.com/
+  http://blog.coinidea.com/
