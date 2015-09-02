@@ -1,11 +1,8 @@
-# WorldWind_DataVisualization
-# 描述 - Description 
-- 加载组件 - Load plugin
-![image](https://github.com/hujiulin/WorldWind_DataVisualization/blob/master/screenshots/LoadPlugin.png)
-
+# WorldWind_DataVisualization Description 
 - 基于World Wind C# 1.4版本设计并开发了数据可视化相关组件
-#1. DBEngine组件
-![image](https://github.com/hujiulin/WorldWind_DataVisualization/blob/master/screenshots/DBEngine.png)
+
+#1. 加载组件 - Load plugin
+![image](https://github.com/hujiulin/WorldWind_DataVisualization/blob/master/screenshots/LoadPlugin.png)
 	
 #2. DataVisualization2D组件
 ![image](https://github.com/hujiulin/WorldWind_DataVisualization/blob/master/screenshots/DataVisualization2D1.png)
